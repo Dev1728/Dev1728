@@ -1,6 +1,6 @@
 - 👋 Hello ,welcome to my acoout i am devesh jadhav
 - 👀 I’m interested in frontend and backend
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Spring and SpringBoot
 
 <!---
 Dev1728/Dev1728 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
