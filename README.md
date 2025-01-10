@@ -1,4 +1,4 @@
-- 👋 Hello ,welcome to my acoout i am devesh jadhav
+- 👋 Hello ,welcome to my acoout i am (MERN stack Developer)Devesh jadhav
 - 👀 I’m interested in frontend and backend
 - 🌱 I’m currently learning Spring and SpringBoot
 
