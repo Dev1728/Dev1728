@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://github.com/Dev1728/Dev1728/blob/main/banner.png" alt="banner" />
 </p>
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
