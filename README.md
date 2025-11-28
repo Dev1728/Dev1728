@@ -1,47 +1,45 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi 👋, I'm Devesh Jadhav</h1>
+<h3 align="center">A passionate developer from Pune,Maharshtra,India</h3>
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="banner" />
+  <img src="https://github.com/Dev1728/Dev1728/blob/main/banner.png" alt="banner" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Your Project**
-- 🌱 I’m learning **MERN Stack, DevOps, AWS**
+- 🔭 I’m currently working on **Cooci-Coach**
+- 🌱 I’m learning **SpringBoot, Microservices & AL/ML**
 - 👨‍💻 All of my projects are available at  
-  👉 https://yourusername.github.io/portfolio
-- 💬 Ask me about **Node.js, React, MongoDB**
-- 📫 How to reach me: **your@email.com**
+  👉 https://Dev1728.github.io
+- 💬 Ask me about **Node.js, React, MongoDB,Express,Core java,Linux etc**
+- 📫 How to reach me: **dj64360@email.com**
 
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/your-link" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="https://instagram.com/your-ig" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-<a href="https://twitter.com/your-handle" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
+<a href="www.linkedin.com/in/devesh-jadhav-632aa124a" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools:
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postman,mysql,git,github,bootstrap,tailwind" height="40" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postman,mysql,git,github,bootstrap,tailwind,sts,firebase,linux,java" height="40" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev1728&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev1728&theme=tokyonight" height="165" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev1728&theme=darkhub" />
 </p>
